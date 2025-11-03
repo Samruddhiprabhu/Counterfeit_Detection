@@ -13,4 +13,4 @@ A deep learning project utilizing a Convolutional Neural Network (CNN) built wit
 * Deep Learning: TensorFlow
 * Computer Vision: OpenCV (cv2)
 * Data Handling: NumPy, Pillow (PIL)
-* Web Interface: Gradio`
+* Web Interface: Gradio
